@@ -33,8 +33,78 @@ p {
   background-repeat: no-repeat;
   background-size: 100% 100%;
   margin: 0px;
+  margin-bottom: 150px;
 }
 .back-image {
   width: 55%;
   height: 95%;
 }
+h2 {
+  text-align: center;
+  font-weight: 200;
+}
+h3 {
+  text-align: center;
+  font-weight: 100;
+}
+h4 {
+  font-weight: 100;
+}
+h5 {
+  font-size: 24px;
+  font-weight: 200;
+}
+.frist-img {
+    padding-top: 10px;
+  width: 500px;
+  height: 250px;
+}
+.my-recipies{
+    width 25%
+    margin-left: 20%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 22px;
+    box-shadow: 10px 10px 30px grey;
+}
+.flexible-h{
+    display: flex;
+    margin-left: 50px;
+    margin-bottom: 150px;
+}
+.letter{
+  display: inline-flex;
+  margin-left: 10%;
+  
+  padding-left: 120px;
+  padding-right: 1100px;
+  border-radius: 10px;
+  
+  box-shadow: 10px 10px 40px grey;
+}
+.lh{
+    width: 30%;
+    margin-left: 55%;
+    margin-right: 40%;
+}
+h6{
+    font-size: 11px;
+    font-weight: 100;
+}
+.last-section{
+    text-align: center;
+    color: grey;
+
+}
+.last{
+    background-color:black;
+}
+.color{
+    color: rgba(240, 119, 20, 0.712);
+}
+footer{
+    font-weight: 90;
+    text-align: center;
+    color: white;
+}
+
