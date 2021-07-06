@@ -106,3 +106,31 @@ footer {
   text-align: center;
   color: white;
 }
+.pink{
+  color: rgb(8, 52, 245);
+  font-size: 40px;
+  font-weight: 400;
+}
+.half{
+  width: 50%;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+}
+.font-img{
+  width: 500px;
+  height: 300px;
+  padding-top: 5px;
+  padding-bottom: 4px;
+}
+.flexible-r{
+  display: flex;
+  margin-bottom:  30px;
+  margin-left: 3%;
+  margin-right: 10%;
+
+  padding-left: 2px;
+  padding-right: 2px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 30px grey;
+
+}
